@@ -1,4 +1,4 @@
-# 🌐 Portfolio — Anshuman Varma
+# 🌐 Portfolio — Niraj Kumar
 
 A modern, responsive, and elegant personal portfolio website built using HTML, Tailwind CSS, and JavaScript.
 It showcases my skills, projects, and contact information in a clean and interactive layout.
@@ -38,11 +38,6 @@ portfolio/
 ├── favicon.png # Website icon (optional)
 └── assets/ # (Optional) Add your images, resume, etc.
 ```
----
-
-## 🧩 Live Demo
-
-🔗 **View Live**: [https://portfolio-two-neon-ptwivbx5is.vercel.app/](https://portfolio-two-neon-ptwivbx5is.vercel.app/)
 
 ---
 
@@ -54,14 +49,6 @@ portfolio/
 - Convert to React-based portfolio
 
 ---
-
-## 🤝 Connect with Me
-
-🌍 **Portfolio**: [anshumanvarma.me](https://anshumanvarma.me)  
-💼 **LinkedIn**: [[linkedin.com/in/anshuman-varma](https://www.linkedin.com/in/anshuman892494/)](https://www.linkedin.com/in/anshuman892494/)  
-🧑‍💻 **GitHub**: [Anshuman892494](https://github.com/Anshuman892494)  
-📷 **Instagram**: [@anshuman_verma_anshu](https://instagram.com/anshuman_verma_anshu)  
-✉️ **Email**: [anshumanverma9795@gmail.com](mailto:anshumanverma9795@gmail.com)
 
 ---
 
